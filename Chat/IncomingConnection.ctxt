@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=IncomingConnection
+comment1.params=from
+comment1.target=boolean\ IncomingConnection(java.lang.String)
+numComments=2
